@@ -1,6 +1,6 @@
 ﻿namespace ProductDatabase1
 {
-    public class Test
+    public class vcdg
     {
     }
 }
